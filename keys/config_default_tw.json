@@ -1,0 +1,7 @@
+{
+	"consumer_key" : "INSERT YOUR KEY HERE",
+	"consumer_secret" : "INSERT YOUR KEY HERE",
+	"access_token" : "INSERT YOUR KEY HERE",
+	"access_token_secret" : "INSERT YOUR KEY HERE",
+	"bearer_token" : "INSERT YOUR KEY HERE"
+}

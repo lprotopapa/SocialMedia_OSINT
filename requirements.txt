@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+tweepy
+textblob
+transformers
+requests
+beautifulsoup4

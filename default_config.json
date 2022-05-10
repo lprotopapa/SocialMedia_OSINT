@@ -1,0 +1,17 @@
+{
+	"linkedin_scrape_mode":true,
+	"linkedin_har_file":"./Data/har/<input har file>",
+	"twitter_key1":"<path to twitter key config file>",
+	"twitter_key2":"<path to secondary twitter key config file>",
+	"multi_key":false,
+	"manual_target_mode":true,
+	"manual_targets_file":"./Data/tw_targets/<twitter manual target file>",
+	"twitter_target":"<main twitter target>",
+	"visual_output":true,
+	"linkedin_find_users":true,
+	"twitter_find_users":true,
+	"twitter_find_relationships":true,
+	"twitter_community_detection":true,
+	"twitter_find_tweets":true,
+	"twitter_sentiment_analysis":true
+}
